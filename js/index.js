@@ -1,7 +1,7 @@
 console.log("Your index.js file is loaded correctly!");
 
 $(document).ready(function() {
-  var learnMoreBtn = $("#learnMoreBtn");
+  var learnMoreBtn = $("#downloadresume");
 
   // When the user scrolls down 20px from the top of the document, show the button
   $(window).scroll(function() {
